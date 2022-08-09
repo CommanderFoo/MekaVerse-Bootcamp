@@ -56,6 +56,12 @@ Objects {
           Name: "Name"
           String: "Cube"
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: -432.280884
+          }
+        }
       }
     }
     TemplateAsset {
