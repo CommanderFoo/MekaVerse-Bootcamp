@@ -99,6 +99,14 @@ Objects {
             Z: 99.1352615
           }
         }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 23.7771149
+            Y: 23.7771149
+            Z: 23.7771149
+          }
+        }
       }
     }
     TemplateAsset {
