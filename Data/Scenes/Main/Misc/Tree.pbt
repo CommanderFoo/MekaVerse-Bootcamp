@@ -70,53 +70,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15841189593133666502
-  Name: "Craftsman House 01"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7415894426024396083
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17138563642137180045
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Craftsman House 01"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -646.639
-            Y: -1188.27246
-            Z: 50.0000229
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 14907678209732714628
-    }
-  }
-}
-Objects {
   Id: 9710189523347579691
   Name: "Cube"
   Transform {

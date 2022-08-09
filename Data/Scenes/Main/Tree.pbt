@@ -18,6 +18,7 @@ Objects {
   ChildIds: 7415894426024396083
   ChildIds: 12554562976697622094
   ChildIds: 9479150948304504061
+  ChildIds: 8117871630916385693
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,6 +36,32 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 8117871630916385693
+  Name: "Cube"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4216108933087611418
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Cube"
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11805666948696766709
+    }
+  }
 }
 Objects {
   Id: 9479150948304504061
